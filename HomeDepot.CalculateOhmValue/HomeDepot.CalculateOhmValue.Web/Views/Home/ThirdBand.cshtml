@@ -1,0 +1,16 @@
+﻿@model string
+<label for="@Model" class="hidden-lg">3rd Band</label>
+<select class="form-control digit-picker blue" id="@Model" name="@(Model.Contains("d2") ? "BandBColor" : "BandCColor")">
+    <option value="">--select--</option>
+    <option class="black" value="black">0 Black</option>
+    <option class="brown" value="brown">1 Brown</option>
+    <option class="red" value="red">2 RED</option>
+    <option class="orange" value="orange">3 Orange</option>
+    <option class="yellow" value="yellow">4 Yellow</option>
+    <option class="green" value="green">5 Green</option>
+    <option class="blue" value="blue">6 Blue</option>
+    <option class="purple" value="violet">7 Violet</option>
+    <option class="grey" value="gray">8 Gray</option>
+    <option class="white" value="white">9 White</option>
+</select>
+<div></div>

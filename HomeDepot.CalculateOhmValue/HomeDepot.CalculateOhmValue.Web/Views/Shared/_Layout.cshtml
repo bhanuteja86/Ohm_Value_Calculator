@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>My Ohm Calculator Application</title>
+    @Styles.Render("~/bundles/css")
+</head>
+<body class="body-content">
+    <h1>Ohm(&#8486;) Calculator Application</h1>
+    <div>
+        @RenderBody()
+        <br />
+    </div>
+    <hr />
+    <footer style="text-align:center">
+        <p>&copy; @DateTime.Now.Year Ohm Value Calculator</p>
+    </footer>
+    @Scripts.Render("~/bundles/custom")
+</body>
+</html>

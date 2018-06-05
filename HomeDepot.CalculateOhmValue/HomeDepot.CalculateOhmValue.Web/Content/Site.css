@@ -1,0 +1,51 @@
+﻿body{
+    padding-bottom: 10px;
+}
+
+input,select,textarea
+{
+    max-width:100px;
+
+}
+.hidden-lg
+{
+    margin-right:10px;
+}
+.home-accor
+{
+   padding-left:400px;
+}
+
+row
+{
+    padding-left:40%;
+}
+select.form-control
+{
+    width:100%;
+    margin-bottom:5px;
+
+}
+option
+{
+    width:100%;
+}
+h1
+{
+    padding-top:20px;
+    text-align:center;
+}
+h2
+{
+    width:50%;
+
+}
+.ohm-group
+{
+    text-align:center;
+}
+label.error
+{
+    color:red;
+}
+

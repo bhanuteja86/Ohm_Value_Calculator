@@ -1,0 +1,2 @@
+c:\users\bhanuteja86\documents\visual studio 2013\Projects\HomeDepot.CalculateOhmValue\HomeDepot.CalculateOhmValue\bin\Debug\HomeDepot.CalculateOhmValue.exe.config
+c:\users\bhanuteja86\documents\visual studio 2013\Projects\HomeDepot.CalculateOhmValue\HomeDepot.CalculateOhmValue\bin\Debug\HomeDepot.CalculateOhmValue.Svc.exe.config

@@ -1,0 +1,10 @@
+c:\users\bhanuteja86\documents\visual studio 2013\Projects\HomeDepot.CalculateOhmValue\HomeDepot.CalculateOhmValue\bin\Debug\HomeDepot.CalculateOhmValue.Svc.dll.config
+c:\users\bhanuteja86\documents\visual studio 2013\Projects\HomeDepot.CalculateOhmValue\HomeDepot.CalculateOhmValue\bin\Debug\HomeDepot.CalculateOhmValue.Svc.dll
+c:\users\bhanuteja86\documents\visual studio 2013\Projects\HomeDepot.CalculateOhmValue\HomeDepot.CalculateOhmValue\bin\Debug\HomeDepot.CalculateOhmValue.Svc.pdb
+c:\users\bhanuteja86\documents\visual studio 2013\Projects\HomeDepot.CalculateOhmValue\HomeDepot.CalculateOhmValue\obj\Debug\HomeDepot.CalculateOhmValue.Svc.dll
+c:\users\bhanuteja86\documents\visual studio 2013\Projects\HomeDepot.CalculateOhmValue\HomeDepot.CalculateOhmValue\obj\Debug\HomeDepot.CalculateOhmValue.Svc.pdb
+C:\Users\bhanuteja86\Documents\Visual Studio 2013\Projects\HomeDepot.CalculateOhmValue\HomeDepot.CalculateOhmValue.Svc\bin\Debug\HomeDepot.CalculateOhmValue.Svc.dll.config
+C:\Users\bhanuteja86\Documents\Visual Studio 2013\Projects\HomeDepot.CalculateOhmValue\HomeDepot.CalculateOhmValue.Svc\bin\Debug\HomeDepot.CalculateOhmValue.Svc.dll
+C:\Users\bhanuteja86\Documents\Visual Studio 2013\Projects\HomeDepot.CalculateOhmValue\HomeDepot.CalculateOhmValue.Svc\bin\Debug\HomeDepot.CalculateOhmValue.Svc.pdb
+C:\Users\bhanuteja86\Documents\Visual Studio 2013\Projects\HomeDepot.CalculateOhmValue\HomeDepot.CalculateOhmValue.Svc\obj\Debug\HomeDepot.CalculateOhmValue.Svc.dll
+C:\Users\bhanuteja86\Documents\Visual Studio 2013\Projects\HomeDepot.CalculateOhmValue\HomeDepot.CalculateOhmValue.Svc\obj\Debug\HomeDepot.CalculateOhmValue.Svc.pdb

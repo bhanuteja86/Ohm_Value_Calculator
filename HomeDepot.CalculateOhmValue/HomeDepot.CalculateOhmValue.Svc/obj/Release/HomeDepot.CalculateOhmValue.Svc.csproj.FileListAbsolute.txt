@@ -1,0 +1,6 @@
+C:\Users\bhanuteja86\Documents\Visual Studio 2013\Projects\HomeDepot.CalculateOhmValue\HomeDepot.CalculateOhmValue.Svc\bin\Release\HomeDepot.CalculateOhmValue.Svc.dll.config
+C:\Users\bhanuteja86\Documents\Visual Studio 2013\Projects\HomeDepot.CalculateOhmValue\HomeDepot.CalculateOhmValue.Svc\bin\Release\HomeDepot.CalculateOhmValue.Svc.dll
+C:\Users\bhanuteja86\Documents\Visual Studio 2013\Projects\HomeDepot.CalculateOhmValue\HomeDepot.CalculateOhmValue.Svc\bin\Release\HomeDepot.CalculateOhmValue.Svc.pdb
+C:\Users\bhanuteja86\Documents\Visual Studio 2013\Projects\HomeDepot.CalculateOhmValue\HomeDepot.CalculateOhmValue.Svc\obj\Release\HomeDepot.CalculateOhmValue.Svc.csprojResolveAssemblyReference.cache
+C:\Users\bhanuteja86\Documents\Visual Studio 2013\Projects\HomeDepot.CalculateOhmValue\HomeDepot.CalculateOhmValue.Svc\obj\Release\HomeDepot.CalculateOhmValue.Svc.dll
+C:\Users\bhanuteja86\Documents\Visual Studio 2013\Projects\HomeDepot.CalculateOhmValue\HomeDepot.CalculateOhmValue.Svc\obj\Release\HomeDepot.CalculateOhmValue.Svc.pdb

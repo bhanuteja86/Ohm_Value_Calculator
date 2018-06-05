@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<script src="~/Scripts/jquery-1.12.4.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery-ui.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+<script type="text/javascript">
+    $(function () {
+        $("#accordion").accordion();
+    })
+</script>
+
+<div class="home-accor">
+    <div id="accordion">
+        <h2>3 Band Resistor</h2>
+        <div id="Band3">@{Html.RenderPartial("Band3");}</div>
+        <h2>4 Band Resistor</h2>
+        <div id="Band4">@{Html.RenderPartial("Band4");}</div>
+        <h2>5 Band Resistor</h2>
+        <div id="Band5">@{Html.RenderPartial("Band5");}</div>
+    </div>
+</div>
+<br />
+
+<div class="row clearfix">
+    <div class="col-sm-10">
+        <div class="col-sm-2 col-xs-12">
+            <div class="ohm-group">
+                <h3><label>Resistance:</label></h3>
+            </div>
+        </div>
+        <div class="col-sm-8 col-xs-8">
+            <div id="tool_output_container">
+            </div>
+        </div>        
+    </div>
+</div>
+<div class="row clearfix">
+    <div id="errors"></div>
+</div>
+
+
